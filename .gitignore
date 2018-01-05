@@ -1,5 +1,5 @@
 # Downloaded data
-/assignment1/cs231n/datasets/cifar-10-batches-py
+cifar-10-batches-py
 
 # Common directory names used for output
 /debug
@@ -43,6 +43,9 @@
 
 # Compiled Python files
 *.pyc
+
+# IPython stuff
+.ipynb_checkpoints
 
 # OS generated files
 *~
